@@ -1,0 +1,1897 @@
+{
+    "products": [
+        {
+            "id": "ebbc881a-231d-3f29-a6ee-9da1efd38361",
+            "categories": [
+                "Shoes",
+                "Health",
+                "Outdoors"
+            ],
+            "names": {
+                "en_UK": "Practical Concrete Lamp",
+                "en_US": "Ergonomic Linen Bottle"
+            },
+            "prices": [],
+            "image": "https:\/\/placehold.it\/300x300.png"
+        },
+        {
+            "id": "45d7ff38-51e0-3bcf-b26f-644e2bbcb12f",
+            "categories": [
+                "Toys",
+                "Games",
+                "Movies"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Incredible Leather Knife"
+            },
+            "prices": [
+                {
+                    "id": "f0e40fd5-1e80-388c-958d-d57acf0da51a",
+                    "amount": 2233.39,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "094d0869-0567-32f4-b7f6-0417d434ef74",
+            "categories": [
+                "Games",
+                "Tools",
+                "Home"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Incredible Copper Pants"
+            },
+            "prices": [
+                {
+                    "id": "58477f72-077e-3d47-80e8-70fce47315b9",
+                    "amount": 1286.03,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "8fd25e47-1691-3cf4-8d79-051e32b008cf",
+            "categories": "Garden",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "455e45bc-a272-349a-a31f-4d5d25fc6428",
+                    "amount": 1764.61,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "9fd20cb9-255c-3f71-b9d7-b5d5bc90b5de",
+            "categories": [
+                "Games",
+                "Music"
+            ],
+            "names": {
+                "en_UK": "Sleek Silk Bag",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "a116de78-96e2-36ae-a71d-cfe26ac33694",
+                    "amount": 2353.26,
+                    "currency": "EUR"
+                }
+            ],
+            "image": "https:\/\/placehold.it\/300x300.png"
+        },
+        {
+            "id": "216141fc-e21e-3fb9-a0ea-697aa69dc90e",
+            "categories": "Toys",
+            "names": {
+                "en_UK": "Intelligent Marble Bottle",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "21a47b22-63d8-36a3-86c7-3ade2032f90e",
+                    "amount": 7284.43,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "6fa558c6-f77c-34ab-831d-f88f491209ea",
+            "categories": [
+                "Toys",
+                "Computers"
+            ],
+            "names": {
+                "en_UK": "Gorgeous Marble Lamp",
+                "en_US": "Lightweight Cotton Car"
+            },
+            "prices": [
+                {
+                    "id": "0b327a76-79a1-3bfe-bbaa-e8d5669c9c88",
+                    "amount": 8635.97,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "63abfa85-277b-337d-938a-32e29f940da5",
+            "categories": [
+                "Jewelry",
+                "Home",
+                "Automotive"
+            ],
+            "names": {
+                "en_UK": "Synergistic Copper Knife",
+                "en_US": "Gorgeous Iron Computer"
+            },
+            "prices": [
+                {
+                    "id": "f5fbe046-7f2e-306f-98e9-5489178ec215",
+                    "amount": 1906.39,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "a1d744a7-c13e-3c83-b4c1-f2d87bccf680",
+            "categories": [
+                "Toys",
+                "Beauty",
+                "Jewelry"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "36204039-062f-37a1-9f63-6d5d8129d75b",
+                    "amount": 6219.83,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "68ce5ed9-47a4-36f7-bb5c-6acee836a40c",
+            "categories": "Tools",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "e1f28769-5c4c-3266-8af3-f945d9677145",
+                    "amount": 5907.76,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "69a9dad5-4828-3041-bd15-44b0a89eba39",
+                    "amount": 5821.07,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "8a59dd36-008d-3a44-a884-df103a8fbb19",
+            "categories": "Kids",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "9034faea-22a9-33be-ac61-c0b9e953d2ad",
+                    "amount": 5120.77,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "ed509c02-84fe-3603-a97f-d79700183e50",
+            "categories": [
+                "Books",
+                "Computers"
+            ],
+            "names": {
+                "en_UK": "Intelligent Silk Watch",
+                "en_US": "Incredible Cotton Pants"
+            },
+            "prices": [
+                {
+                    "id": "8ffac26e-8b63-370d-a2e6-80b6cff086ce",
+                    "amount": 6955.01,
+                    "currency": "USD"
+                },
+                {
+                    "id": "73e9547f-f2b3-3416-8701-f4296e97ea3a",
+                    "amount": 5021.52,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "c5370e8c-aec5-34ce-b4d8-9ebf59121dff",
+            "categories": [
+                "Outdoors",
+                "Movies",
+                "Computers"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "02e6f4dd-d63f-359f-aa65-01d9e71c68e9",
+            "categories": [
+                "Health",
+                "Books"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "01854b1f-7996-3e76-9d27-f1ca4940a922",
+            "categories": "Jewelry",
+            "names": {
+                "en_UK": "Synergistic Copper Knife",
+                "en_US": "Fantastic Granite Plate"
+            },
+            "prices": [
+                {
+                    "id": "94fe6e51-5cec-3cb4-8372-58981080b2cc",
+                    "amount": 5565.87,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "3c8bd418-55e3-3a77-9f7f-3c8f4836fac9",
+            "categories": "Health",
+            "names": {
+                "en_UK": "",
+                "en_US": "Lightweight Silk Bench"
+            },
+            "prices": [
+                {
+                    "id": "a1b845c2-7adb-368f-a0b5-d8701755d3ae",
+                    "amount": 2721.31,
+                    "currency": "USD"
+                },
+                {
+                    "id": "a78f1841-1249-30e2-afec-8b931635ffdd",
+                    "amount": 200.18,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "98ae1b91-977f-3b17-b7e5-ad99b723c629",
+            "categories": [
+                "Industrial",
+                "Books"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Heavy Duty Linen Plate"
+            },
+            "prices": [
+                {
+                    "id": "45f2963c-5e96-37c7-bad1-5060f85b4457",
+                    "amount": 4999.8,
+                    "currency": "USD"
+                },
+                {
+                    "id": "2e5f7a6c-e8e0-3c21-95ea-d837731f5fdb",
+                    "amount": 987.59,
+                    "currency": "USD"
+                },
+                {
+                    "id": "b09db70b-f938-38fd-a636-f8a331a6ac0a",
+                    "amount": 1528.08,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "0e96475b-381f-3f07-a76d-abfc7ec06d63",
+            "categories": [
+                "Sports",
+                "Computers"
+            ],
+            "names": {
+                "en_UK": "Fantastic Rubber Knife",
+                "en_US": "Incredible Concrete Shoes"
+            },
+            "prices": [
+                {
+                    "id": "3cb71470-eff8-387f-8063-7cc479d81a57",
+                    "amount": 5043.21,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "54560022-9824-3072-9866-0b8e4a465682",
+                    "amount": 5699.37,
+                    "currency": "USD"
+                },
+                {
+                    "id": "87dbb434-9b6b-399c-a9f0-286f3c2efe12",
+                    "amount": 6395.37,
+                    "currency": "USD"
+                },
+                {
+                    "id": "71398b66-926f-340f-910a-b1b2b8d8960f",
+                    "amount": 9141.35,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "b5916cf3-de86-3eda-98c1-f837fd3c257d",
+            "categories": [
+                "Movies",
+                "Games"
+            ],
+            "names": {
+                "en_UK": "Lightweight Wooden Gloves",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "0c371137-2056-34ff-a253-0a931afd2ec0",
+                    "amount": 8713.47,
+                    "currency": "USD"
+                },
+                {
+                    "id": "33a60fd4-835d-3251-abf5-291e4f803961",
+                    "amount": 6672.48,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "87135af6-7b32-3155-ac03-5fc301acdd1f",
+            "categories": [
+                "Beauty",
+                "Automotive"
+            ],
+            "names": {
+                "en_UK": "Ergonomic Linen Keyboard",
+                "en_US": "Heavy Duty Wool Computer"
+            },
+            "prices": [
+                {
+                    "id": "069de514-5341-32cc-ba0d-849aa1fad917",
+                    "amount": 9893.8,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "edf3c8ff-83f4-3df8-8f0b-5e177dcf0534",
+            "categories": [
+                "Home",
+                "Kids"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "6f772b8d-c589-3e17-a098-73a3b07955a4",
+                    "amount": 3410.16,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "04789aab-0437-34bf-bf9a-90a7f04c5729",
+                    "amount": 5017.6,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "96990404-8b7f-3b73-9106-5d7110a02c39",
+            "categories": [
+                "Industrial",
+                "Garden"
+            ],
+            "names": {
+                "en_UK": "Ergonomic Copper Watch",
+                "en_US": "Durable Marble Keyboard"
+            },
+            "prices": [
+                {
+                    "id": "b9ed8892-f282-32c4-8ecf-5720f50a2071",
+                    "amount": 4224.74,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "44785d0c-4e34-33cf-a11d-da89ae855c91",
+            "categories": [
+                "Baby",
+                "Electronics"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "26e7c45a-faff-3089-8a50-1a7f2f482d9e",
+            "categories": [
+                "Games",
+                "Jewelry",
+                "Grocery"
+            ],
+            "names": {
+                "en_UK": "Incredible Leather Watch",
+                "en_US": "Heavy Duty Wooden Hat"
+            },
+            "prices": [
+                {
+                    "id": "f8b43f32-9a28-38d0-a9b4-0cda4a628677",
+                    "amount": 4985.59,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "6399972f-cb3d-32cb-a250-6f4195febbfd",
+            "categories": [
+                "Music",
+                "Toys",
+                "Clothing"
+            ],
+            "names": {
+                "en_UK": "Synergistic Copper Bench",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "905b2d82-9f61-3552-872e-4a4990d9932a",
+                    "amount": 5421.67,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "bf9bfd3b-2dc0-3362-9859-d7d91b821859",
+                    "amount": 8126.26,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "2994b72f-bdc0-3203-942f-b216c5b30ae6",
+            "categories": "Music",
+            "names": {
+                "en_UK": "",
+                "en_US": "Intelligent Paper Plate"
+            },
+            "prices": [
+                {
+                    "id": "3f91794d-8316-36c1-8742-875c1ca9aa56",
+                    "amount": 246.94,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "b90aa08b-2cc1-3ed3-83a3-fc13a6fade0d",
+            "categories": [
+                "Sports",
+                "Music"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Sleek Granite Pants"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "8726408b-cf8d-3ae3-92e5-3ab3e29bc6d4",
+            "categories": "Outdoors",
+            "names": {
+                "en_UK": "Synergistic Wool Coat",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "e6d18875-f0a4-3397-a5ce-dfe996898df3",
+                    "amount": 8498.7,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "cd8250a8-954d-3ab3-96e7-da14cd4f6f5c",
+                    "amount": 1722.56,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "30874a4f-fd06-3557-8e74-e8847c2f87a5",
+            "categories": [
+                "Computers",
+                "Jewelry",
+                "Books"
+            ],
+            "names": {
+                "en_UK": "Fantastic Steel Car",
+                "en_US": "Mediocre Rubber Chair"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "9d5352fa-c32b-3777-b5aa-a5c80a0dcfe7",
+            "categories": [
+                "Health",
+                "Games"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "92474d49-4da0-377c-b882-42b2fcef1708",
+            "categories": "Beauty",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "93673929-a836-3168-bf4f-11337161f0ad",
+                    "amount": 3477.32,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "926a2eb8-4848-3780-a9f3-f5c5aea62f9c",
+            "categories": "Outdoors",
+            "names": {
+                "en_UK": "Fantastic Aluminum Bag",
+                "en_US": "Mediocre Wool Lamp"
+            },
+            "prices": [
+                {
+                    "id": "54a66a56-01c4-313d-bb22-f3600aefba4f",
+                    "amount": 3778.76,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "a01c7981-9318-3787-b43d-14207882b585",
+            "categories": "Jewelry",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "1af0da88-d71e-3795-ae85-12b26cfd5694",
+                    "amount": 7660.46,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "2c452c5d-4dc2-3758-868b-a265940b097c",
+                    "amount": 7515.46,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "41c8b1b9-d296-3061-953d-0f8304947e3c",
+            "categories": "Books",
+            "names": {
+                "en_UK": "Enormous Bronze Lamp",
+                "en_US": "Gorgeous Cotton Computer"
+            },
+            "prices": [
+                {
+                    "id": "01e7ee34-cde7-38f9-abb6-3a381b986192",
+                    "amount": 2352.01,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "4af537ac-5711-321f-8abc-a243834466da",
+            "categories": [
+                "Movies",
+                "Jewelry"
+            ],
+            "names": {
+                "en_UK": "Aerodynamic Marble Knife",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "a07109cf-17b1-3317-ad5c-add16a52f320",
+                    "amount": 3085.12,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "b02bc850-29cd-3fc0-80b1-09147bf3cd75",
+                    "amount": 9406.63,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "561c601d-8e92-30c8-beb7-b7739d819484",
+            "categories": "Jewelry",
+            "names": {
+                "en_UK": "Sleek Bronze Gloves",
+                "en_US": "Sleek Wool Shoes"
+            },
+            "prices": [
+                {
+                    "id": "a2d07967-7494-392e-93fc-134b059919c3",
+                    "amount": 2389.02,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "6383083e-c8b5-3c85-81dd-e7af7618ef14",
+                    "amount": 9074.95,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "90c72d2b-387c-35c9-a194-b88d6f84d179",
+                    "amount": 4776.61,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "7b67dbe6-2bbf-3e66-ad41-96533ffc1adc",
+            "categories": [
+                "Grocery",
+                "Toys"
+            ],
+            "names": {
+                "en_UK": "Rustic Concrete Pants",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "b3a7b698-ac55-3624-8185-fbb1d483a12c",
+                    "amount": 2161.23,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "ce224d3c-b77e-341e-9411-5292311906c8",
+            "categories": [
+                "Toys",
+                "Tools",
+                "Automotive"
+            ],
+            "names": {
+                "en_UK": "Intelligent Plastic Bottle",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "7a54c906-2502-3ecd-b006-3e53904725e7",
+                    "amount": 8838.4,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "bf1b918a-e0c3-302b-b590-2112f4a20f53",
+            "categories": [
+                "Toys",
+                "Jewelry"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Incredible Plastic Chair"
+            },
+            "prices": [
+                {
+                    "id": "128e767d-e227-384d-8733-d394551951c8",
+                    "amount": 5960.06,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "ea946af1-e49a-3979-98b5-b488cfe3d741",
+                    "amount": 915.26,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "55982338-1cb6-340b-b78c-8e19cfa026d2",
+            "categories": [
+                "Clothing",
+                "Movies"
+            ],
+            "names": {
+                "en_UK": "Heavy Duty Steel Coat",
+                "en_US": "Mediocre Leather Watch"
+            },
+            "prices": [
+                {
+                    "id": "847ff3cb-0378-3fde-90a5-37af72a150a5",
+                    "amount": 7007.88,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "8b8f0409-a949-3abb-aa0e-d8e2f0edcb26",
+            "categories": "Beauty",
+            "names": {
+                "en_UK": "",
+                "en_US": "Ergonomic Concrete Wallet"
+            },
+            "prices": [
+                {
+                    "id": "27bf512a-31f7-3a8d-9e38-35628e00c58b",
+                    "amount": 3895.04,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "b07768ee-5bfe-356c-a789-062f89a843a4",
+            "categories": [
+                "Games",
+                "Books",
+                "Baby"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "55960eba-9ef4-300c-a4d3-cca776abfcaf",
+                    "amount": 3087.52,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "4c28a450-7fdc-37fc-b24c-711a27b33eb3",
+                    "amount": 7802.63,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "c5caf681-b2dc-3b6c-9cce-b3e0b80daa23",
+            "categories": [
+                "Beauty",
+                "Electronics",
+                "Shoes"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "7e3df03c-006b-3687-86fb-042772ba1c77",
+            "categories": [
+                "Industrial",
+                "Jewelry"
+            ],
+            "names": {
+                "en_UK": "Mediocre Wool Car",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "286d6137-c2f5-34e3-a6ea-597e80384470",
+                    "amount": 914.95,
+                    "currency": "USD"
+                },
+                {
+                    "id": "c5cea0f9-01b6-360e-b06c-dd23b3401251",
+                    "amount": 2424.75,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "491fd117-c0aa-3e4e-8b7c-19a848e64a24",
+            "categories": [
+                "Automotive",
+                "Clothing",
+                "Industrial"
+            ],
+            "names": {
+                "en_UK": "Enormous Cotton Shoes",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "13d8726f-669c-3581-9543-5b0d97374ecd",
+            "categories": "Music",
+            "names": {
+                "en_UK": "Enormous Wooden Bench",
+                "en_US": "Small Steel Hat"
+            },
+            "prices": [
+                {
+                    "id": "ba84c0c9-2511-365e-b656-5c89bfe471a8",
+                    "amount": 2612.19,
+                    "currency": "USD"
+                },
+                {
+                    "id": "7b491e45-5615-31af-b297-1ffdf8f6a479",
+                    "amount": 4369.29,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "5c46e23e-6e0f-3b88-b205-a3925f3b0204",
+            "categories": [
+                "Tools",
+                "Books",
+                "Shoes"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Small Cotton Chair"
+            },
+            "prices": [
+                {
+                    "id": "cc1e8c21-b15e-3773-b455-ad761ec7aacf",
+                    "amount": 4170.89,
+                    "currency": "USD"
+                },
+                {
+                    "id": "a24bcfe6-d3dc-3460-a8f3-7d19b60e2266",
+                    "amount": 4643.49,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "70ad5448-7bb5-3d6f-8fd7-54a9f085fc3f",
+            "categories": "Baby",
+            "names": {
+                "en_UK": "Rustic Concrete Shoes",
+                "en_US": "Gorgeous Bronze Table"
+            },
+            "prices": [
+                {
+                    "id": "12442051-c104-3643-bf8f-e211af18d1a3",
+                    "amount": 2140.19,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "c5bb3e11-9b2c-3e5e-bb83-28cf77512891",
+            "categories": "Kids",
+            "names": {
+                "en_UK": "Rustic Iron Plate",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "ea82ed7d-c009-3b3b-ae86-d0f35ba0f3ce",
+                    "amount": 2169.16,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "236397cc-f4aa-3143-92d1-9d30b07aadef",
+                    "amount": 9142.77,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "e87ce847-c462-373e-9fd3-081b9bea2c0a",
+            "categories": "Movies",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "3b8c20fe-bcfc-35eb-961f-12cc857c6dd3",
+            "categories": "Kids",
+            "names": {
+                "en_UK": "Aerodynamic Cotton Bench",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "d9496e33-30a7-3734-872c-86c65b83efe1",
+                    "amount": 843.5,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "7355f520-d187-3c26-aede-05d80e36509d",
+            "categories": [
+                "Baby",
+                "Movies",
+                "Garden"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "5e387136-2170-3a67-a31a-91517b8618b3",
+                    "amount": 676.3,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "c1fd30a0-0dcc-3614-8683-dfdba2f3461c",
+                    "amount": 6310.83,
+                    "currency": "USD"
+                },
+                {
+                    "id": "5315dfe3-c3e0-3af3-bd3c-0cc9519d9085",
+                    "amount": 2589.98,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "b2845790-1dc2-3705-a54d-cdeeff06cc45",
+            "categories": "Garden",
+            "names": {
+                "en_UK": "",
+                "en_US": "Ergonomic Silk Plate"
+            },
+            "prices": [
+                {
+                    "id": "dad96d3c-fe93-3199-8ebe-d39ae8d24dca",
+                    "amount": 4606.75,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "0152b122-e728-3095-8f3c-087157f62e62",
+                    "amount": 3411.58,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "5582c689-5801-309b-86ee-c6d0e8b01dc2",
+            "categories": [
+                "Books",
+                "Tools",
+                "Jewelry"
+            ],
+            "names": {
+                "en_UK": "Lightweight Cotton Lamp",
+                "en_US": "Heavy Duty Leather Bag"
+            },
+            "prices": [
+                {
+                    "id": "8e13ecc1-649b-3648-91dd-23828d6cc8c0",
+                    "amount": 1314.57,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "de8c205a-2eb2-3e66-a5b3-1b0c1587cf9c",
+                    "amount": 7332.94,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "748edb7c-1c91-3d68-8945-eb42f2715181",
+            "categories": "Electronics",
+            "names": {
+                "en_UK": "Gorgeous Silk Chair",
+                "en_US": "Aerodynamic Paper Car"
+            },
+            "prices": [
+                {
+                    "id": "50e813ab-a2fa-3c1e-80fd-4995c525d7cc",
+                    "amount": 1875.95,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "7566bb36-9f52-3c99-9189-cce7f3f2264e",
+            "categories": [
+                "Electronics",
+                "Grocery"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "b0b1391d-5e89-3fe5-9dfd-8fcbaf5b6ead",
+            "categories": "Electronics",
+            "names": {
+                "en_UK": "Ergonomic Iron Bottle",
+                "en_US": "Awesome Paper Coat"
+            },
+            "prices": [
+                {
+                    "id": "62381993-5faa-31a8-bd02-4242c3cf79c8",
+                    "amount": 5844.38,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "f148f837-836c-3f43-9eb6-29ddd8058d4c",
+            "categories": [
+                "Beauty",
+                "Shoes",
+                "Electronics"
+            ],
+            "names": {
+                "en_UK": "Small Paper Lamp",
+                "en_US": "Sleek Paper Shirt"
+            },
+            "prices": [
+                {
+                    "id": "ff174dee-afe2-3697-9bcf-3333430f2e95",
+                    "amount": 2157.15,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "bfdd01d2-afac-3090-886f-23d0c4a5a12e",
+                    "amount": 3539.66,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "898a04f6-7c9c-399c-9f21-30e820a98805",
+            "categories": [
+                "Sports",
+                "Electronics"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "9687d85f-06b9-3375-8fa5-1fb3507aa173",
+                    "amount": 6940.09,
+                    "currency": "USD"
+                },
+                {
+                    "id": "fcdf3d39-9af7-3620-8489-59149254b6ea",
+                    "amount": 330.56,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "74745707-1167-30d7-89c2-a031f2ebd722",
+                    "amount": 485.28,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "aae7399e-71c3-38df-b840-284bd86b8477",
+            "categories": "Automotive",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "875ceecd-4565-338b-bedc-a1f660898679",
+                    "amount": 5671.52,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "2c58999b-6f27-3875-b058-148b9267e039",
+                    "amount": 683.02,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "bc216086-b5b2-3b43-b1ff-c9cfa4e118ea",
+            "categories": [
+                "Books",
+                "Outdoors",
+                "Sports"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": "https:\/\/placehold.it\/300x300.png"
+        },
+        {
+            "id": "2d60d24f-4a42-316d-a196-6df89599d34a",
+            "categories": [
+                "Baby",
+                "Jewelry",
+                "Industrial"
+            ],
+            "names": {
+                "en_UK": "Durable Marble Gloves",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "66229dae-bba6-3706-b612-32894f525009",
+                    "amount": 3116.19,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "2488e5ff-aa28-35c5-b90c-f2d2a929b251",
+                    "amount": 1873.15,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "f5bb05e4-09b4-3459-94f7-4402ce707f80",
+            "categories": "Home",
+            "names": {
+                "en_UK": "Gorgeous Concrete Table",
+                "en_US": "Awesome Concrete Computer"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "f1cfd6e0-2bab-38b9-91de-6e866f293369",
+            "categories": "Health",
+            "names": {
+                "en_UK": "",
+                "en_US": "Enormous Bronze Wallet"
+            },
+            "prices": [
+                {
+                    "id": "f735b23f-0c15-325b-a0da-5b980933e974",
+                    "amount": 1290.53,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "ab94e77a-4475-37ca-bf42-d39449916310",
+                    "amount": 8984.58,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "c858fcf5-e736-3713-a923-a3c8aa3974f8",
+            "categories": "Games",
+            "names": {
+                "en_UK": "Fantastic Cotton Computer",
+                "en_US": "Lightweight Wooden Knife"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "427e6b10-3aab-368a-b829-7df2c16b47cf",
+            "categories": "Industrial",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "ad255765-50ce-3e30-9ac9-f9123d0e2ff3",
+                    "amount": 9489.56,
+                    "currency": "USD"
+                }
+            ],
+            "image": "https:\/\/placehold.it\/300x300.png"
+        },
+        {
+            "id": "220688cb-af9c-3545-b442-021303db1168",
+            "categories": [
+                "Outdoors",
+                "Baby",
+                "Grocery"
+            ],
+            "names": {
+                "en_UK": "Lightweight Silk Plate",
+                "en_US": "Practical Silk Shoes"
+            },
+            "prices": [
+                {
+                    "id": "6438bca9-8480-3142-9d51-98acd6f4355f",
+                    "amount": 7502.03,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "5b9c14ba-0103-30df-a2c2-d6d4a745c8d3",
+            "categories": "Games",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "f3d2b602-0e53-33d9-b8a0-77ef87b7055b",
+                    "amount": 2965.6,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "7fb66166-6d61-32fd-b173-014ef6942e58",
+            "categories": "Toys",
+            "names": {
+                "en_UK": "",
+                "en_US": "Sleek Paper Computer"
+            },
+            "prices": [
+                {
+                    "id": "700c6088-4310-3a41-aaa3-cefcb2df251d",
+                    "amount": 9081.1,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "a51ff127-5ea3-3469-8efe-baa50dd5c5be",
+            "categories": [
+                "Kids",
+                "Grocery",
+                "Shoes"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Small Rubber Lamp"
+            },
+            "prices": [
+                {
+                    "id": "28d6a84b-65c0-3aad-95b7-a3901773092e",
+                    "amount": 2235.84,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "29b4513b-8760-38ef-aaef-c028c973285c",
+                    "amount": 4153.29,
+                    "currency": "USD"
+                },
+                {
+                    "id": "0968637a-f03e-3fc5-b842-1361c6af4d80",
+                    "amount": 1368.86,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "8f8f9e06-5300-351a-8bf3-5eda1bd10a6f",
+                    "amount": 2450.71,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "910ab779-ec8b-39c8-8344-e972b51579fc",
+            "categories": [
+                "Home",
+                "Electronics"
+            ],
+            "names": {
+                "en_UK": "Lightweight Concrete Lamp",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "2669fb79-01c4-3c33-ba2d-dd324df5f8bc",
+            "categories": [
+                "Movies",
+                "Games",
+                "Industrial"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "10c49d4a-0d66-3d77-ab2d-703678f55dd9",
+                    "amount": 2271.3,
+                    "currency": "EUR"
+                }
+            ],
+            "image": "https:\/\/placehold.it\/300x300.png"
+        },
+        {
+            "id": "1ab413b2-a1ee-36de-b02c-9f6c67a7eced",
+            "categories": "Baby",
+            "names": {
+                "en_UK": "Sleek Wooden Lamp",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "7b8d6807-156a-3d05-80a4-064d06824d5b",
+                    "amount": 8649,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "e83f3d4b-a5d2-33b8-84f8-217f600efe19",
+                    "amount": 3524.25,
+                    "currency": "USD"
+                },
+                {
+                    "id": "8e685b05-7901-3420-997f-b79b8c5216c5",
+                    "amount": 7203.5,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "4670a4b9-beba-340e-910a-ebc1b5968816",
+            "categories": [
+                "Toys",
+                "Shoes",
+                "Kids"
+            ],
+            "names": {
+                "en_UK": "Lightweight Steel Chair",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "ba6c4b4d-f573-33c1-bc76-d72539613772",
+                    "amount": 9241.31,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "5265528a-cd39-3aed-b73d-694dbbfcdade",
+            "categories": [
+                "Beauty",
+                "Games"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Small Silk Plate"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "2178464d-7645-3b29-b732-c9ac57b580ce",
+            "categories": "Home",
+            "names": {
+                "en_UK": "Practical Leather Bottle",
+                "en_US": "Rustic Wooden Bag"
+            },
+            "prices": [
+                {
+                    "id": "5fb90779-2d4c-383c-a604-52ca4f9366b3",
+                    "amount": 5096.32,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "4dc8e52c-2cc5-3269-bacf-232e8f2b0ef7",
+            "categories": [
+                "Computers",
+                "Toys"
+            ],
+            "names": {
+                "en_UK": "Incredible Paper Shirt",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "d320fa47-4001-31ac-9cb6-4247d1cffd18",
+                    "amount": 4692.82,
+                    "currency": "USD"
+                },
+                {
+                    "id": "12fd7127-d086-3f92-a410-a0c1aef43402",
+                    "amount": 6487.72,
+                    "currency": "EUR"
+                }
+            ],
+            "image": "https:\/\/placehold.it\/300x300.png"
+        },
+        {
+            "id": "dfa8c684-3804-3ef3-bfea-63fc1b4730c7",
+            "categories": [
+                "Automotive",
+                "Clothing"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "06815201-7dd4-3852-b13e-9bf88c188673",
+                    "amount": 225.1,
+                    "currency": "USD"
+                }
+            ],
+            "image": "https:\/\/placehold.it\/300x300.png"
+        },
+        {
+            "id": "f8e79ba9-8f95-3af4-b28f-91cc0961de8b",
+            "categories": [
+                "Sports",
+                "Tools"
+            ],
+            "names": {
+                "en_UK": "Synergistic Leather Watch",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "2641c2d6-b1ac-37af-92d0-0da08766336f",
+            "categories": "Toys",
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "b60e53e7-c9a0-35f4-ac87-4ca34a700a5f",
+                    "amount": 3237.76,
+                    "currency": "USD"
+                },
+                {
+                    "id": "fc64f2fe-336f-3a4d-b253-d5af110f1ea7",
+                    "amount": 2951.86,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "62df4723-e343-3a55-82c7-1ff3767fc9e9",
+            "categories": [
+                "Clothing",
+                "Jewelry"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "6e921b26-94fd-3947-90fe-c292ad4aeaa2",
+            "categories": [
+                "Home",
+                "Outdoors",
+                "Industrial"
+            ],
+            "names": {
+                "en_UK": "Rustic Concrete Watch",
+                "en_US": "Rustic Marble Bottle"
+            },
+            "prices": [
+                {
+                    "id": "fb3e2e1e-a918-3108-b13f-3b4b7472694c",
+                    "amount": 7115.36,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "e65713be-0f22-3b50-8381-2ff984e24795",
+            "categories": [
+                "Home",
+                "Automotive"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": ""
+            },
+            "prices": [
+                {
+                    "id": "3528ac7c-25b1-3662-9f66-e569e9483583",
+                    "amount": 5863.44,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "515654dd-59aa-38a7-9632-cdb583b4af06",
+            "categories": [
+                "Outdoors",
+                "Electronics",
+                "Clothing"
+            ],
+            "names": {
+                "en_UK": "Ergonomic Aluminum Knife",
+                "en_US": ""
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "7e84692f-dd49-363e-a0c5-749b09cb3fd6",
+            "categories": "Outdoors",
+            "names": {
+                "en_UK": "",
+                "en_US": "Intelligent Cotton Bag"
+            },
+            "prices": [
+                {
+                    "id": "9f8f498e-a67d-33c6-83ec-7b7ec1ff2a95",
+                    "amount": 1366.88,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "a8b55554-b8e6-3af6-a3c7-311610546b64",
+            "categories": "Automotive",
+            "names": {
+                "en_UK": "",
+                "en_US": "Small Steel Chair"
+            },
+            "prices": [
+                {
+                    "id": "0423de49-2a16-3cb7-84f8-c753b0076005",
+                    "amount": 1822.84,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "de76a779-07ed-3773-9498-248231284c96",
+                    "amount": 9141.96,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "f67ad7fe-0a00-3172-80f6-69656611790e",
+            "categories": [
+                "Computers",
+                "Automotive",
+                "Baby"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Incredible Iron Plate"
+            },
+            "prices": [
+                {
+                    "id": "664e98e0-5358-3d66-862b-8b8dc03ea12e",
+                    "amount": 8028.58,
+                    "currency": "EUR"
+                },
+                {
+                    "id": "240ab2ae-7bd7-38bd-a2e9-4f8e62e102be",
+                    "amount": 835.12,
+                    "currency": "USD"
+                }
+            ],
+            "image": "https:\/\/placehold.it\/300x300.png"
+        },
+        {
+            "id": "71538d66-dcb7-3e8a-a5cb-75f9f1cd6373",
+            "categories": [
+                "Movies",
+                "Beauty"
+            ],
+            "names": {
+                "en_UK": "Mediocre Leather Chair",
+                "en_US": "Rustic Plastic Clock"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "71faf940-4030-3b9f-b594-6b7d04c76f80",
+            "categories": [
+                "Books",
+                "Electronics"
+            ],
+            "names": {
+                "en_UK": "Lightweight Rubber Car",
+                "en_US": "Incredible Aluminum Shirt"
+            },
+            "prices": [
+                {
+                    "id": "c654dd3a-df5b-3fa2-be2b-25ba7b443b2c",
+                    "amount": 2793.92,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "17c14e6c-c821-3bab-8db1-962e3abea0e8",
+            "categories": "Jewelry",
+            "names": {
+                "en_UK": "",
+                "en_US": "Incredible Linen Coat"
+            },
+            "prices": [
+                {
+                    "id": "a5e56b48-9bf8-3e7e-b260-97e678c7e792",
+                    "amount": 5869.01,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "34e584c3-d554-319b-b242-3f0b5733fa05",
+            "categories": [
+                "Outdoors",
+                "Grocery"
+            ],
+            "names": {
+                "en_UK": "Incredible Granite Plate",
+                "en_US": "Heavy Duty Granite Bottle"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "ff3aeb76-38cd-3a5b-8c66-dc40213011a8",
+            "categories": [
+                "Sports",
+                "Health"
+            ],
+            "names": {
+                "en_UK": "Gorgeous Cotton Computer",
+                "en_US": "Heavy Duty Concrete Hat"
+            },
+            "prices": [
+                {
+                    "id": "38bc86ee-a8d2-33cb-a7c2-41a1184110ab",
+                    "amount": 783.62,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "94bb30b6-193a-3aeb-a118-32ed048158dc",
+            "categories": [
+                "Health",
+                "Music"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Sleek Wooden Coat"
+            },
+            "prices": [
+                {
+                    "id": "48a8eee1-f830-3169-99ba-162075680b99",
+                    "amount": 6171.65,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "50af1821-e189-3cac-8403-58b02990e805",
+            "categories": [
+                "Garden",
+                "Clothing"
+            ],
+            "names": {
+                "en_UK": "Aerodynamic Iron Bag",
+                "en_US": "Enormous Aluminum Keyboard"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "dbe74618-1803-314e-81a8-3736edc4880f",
+            "categories": "Health",
+            "names": {
+                "en_UK": "",
+                "en_US": "Aerodynamic Cotton Bench"
+            },
+            "prices": [
+                {
+                    "id": "67a012f2-e62b-30be-986d-87ed911801e5",
+                    "amount": 8338.47,
+                    "currency": "USD"
+                },
+                {
+                    "id": "95567977-e7cb-37c7-b57b-fa626d5ed3ea",
+                    "amount": 4391.65,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "4b471f51-a2e4-31b8-96b7-9726fa0797dc",
+            "categories": [
+                "Kids",
+                "Tools",
+                "Industrial"
+            ],
+            "names": {
+                "en_UK": "",
+                "en_US": "Ergonomic Wooden Shoes"
+            },
+            "prices": [
+                {
+                    "id": "a8ef49dc-7697-331a-aee5-e06b0ec69e8b",
+                    "amount": 4098.24,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "ab3aa038-3dd8-39ee-8308-c14dafa9660b",
+            "categories": [
+                "Health",
+                "Books"
+            ],
+            "names": {
+                "en_UK": "Gorgeous Bronze Shoes",
+                "en_US": "Ergonomic Marble Keyboard"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "a4bda779-3f6e-3d4d-8028-077d39eab059",
+            "categories": "Electronics",
+            "names": {
+                "en_UK": "Synergistic Silk Bag",
+                "en_US": "Rustic Rubber Watch"
+            },
+            "prices": [],
+            "image": ""
+        },
+        {
+            "id": "fac4c90f-0876-35be-83e1-0b7e132b9103",
+            "categories": [
+                "Industrial",
+                "Clothing",
+                "Beauty"
+            ],
+            "names": {
+                "en_UK": "Fantastic Plastic Lamp",
+                "en_US": "Fantastic Plastic Bag"
+            },
+            "prices": [
+                {
+                    "id": "93cbfbbd-69b9-3c90-83e6-a45c588197cb",
+                    "amount": 7804.01,
+                    "currency": "USD"
+                }
+            ],
+            "image": ""
+        },
+        {
+            "id": "720de077-4bbe-3b32-8acf-791df1c74cca",
+            "categories": [
+                "Automotive",
+                "Toys"
+            ],
+            "names": {
+                "en_UK": "Small Wool Coat",
+                "en_US": "Enormous Paper Clock"
+            },
+            "prices": [
+                {
+                    "id": "f4427162-d7d3-3fa8-a476-bac94580d997",
+                    "amount": 3095.97,
+                    "currency": "USD"
+                },
+                {
+                    "id": "a93aeb93-25c5-330c-b3b6-f23af38dfa31",
+                    "amount": 5474.36,
+                    "currency": "USD"
+                },
+                {
+                    "id": "08713cec-207d-3554-a54b-741def61615a",
+                    "amount": 2737.9,
+                    "currency": "EUR"
+                }
+            ],
+            "image": ""
+        }
+    ]
+}
